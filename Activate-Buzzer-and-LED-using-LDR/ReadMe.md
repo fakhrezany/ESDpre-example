@@ -27,3 +27,18 @@ So first thing to do is to connect all the LED, LDR, and Buzzer to the Breadboar
 Down here are the schematic diagram of the circuit from the TinkerCAD project:
 
 https://www.tinkercad.com/things/4eg2UnfDHQY-brilliant-snaget/editel?tenant=circuits
+
+
+
+
+
+
+
+To Conclude,
+
+
+This is a very simple project that anyone can make, using only a few components to achieve the goal
+
+It is also good to understand how Arduino outputs works and also the For loop.
+
+Thanks for passing by....
