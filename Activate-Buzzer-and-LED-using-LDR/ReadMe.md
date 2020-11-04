@@ -26,7 +26,7 @@ So first thing to do is to connect all the LED, LDR, and Buzzer to the Breadboar
 
 Down here are the schematic diagram of the circuit from the TinkerCAD project:
 
-https://www.tinkercad.com/things/4eg2UnfDHQY-brilliant-snaget/editel?tenant=circuits
+https://www.tinkercad.com/things/4eg2UnfDHQY
 
 
 
