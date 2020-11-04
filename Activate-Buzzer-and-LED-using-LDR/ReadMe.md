@@ -1,4 +1,3 @@
-# ESDexample
 Hi everyone, this is a quick and simple tutorial on how to activate a Buzzer and LED using Arduino UNO and LDR.
 
 
